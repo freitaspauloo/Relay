@@ -82,7 +82,7 @@ export const ASSETS: BackgroundAsset[] = [
     description:
       "Layered radial mesh in deep cobalt and electric blue. Soft, dimensional light that keeps foreground UI perfectly legible.",
     swatches: ["#1B4DD1", "#2D6BFF", "#8AB4FF"],
-    css: "radial-gradient(at 18% 22%, #2D6BFF 0px, transparent 55%), radial-gradient(at 82% 18%, #6A5CFF 0px, transparent 50%), radial-gradient(at 60% 88%, #00A3FF 0px, transparent 55%), linear-gradient(160deg, #0B1E52, #123).",
+    css: "radial-gradient(at 18% 22%, #2D6BFF 0px, transparent 55%), radial-gradient(at 82% 18%, #6A5CFF 0px, transparent 50%), radial-gradient(at 60% 88%, #00A3FF 0px, transparent 55%), linear-gradient(160deg, #0B1E52, #112233)",
     formats: ["PNG", "JPG", "WEBP"],
     dimensions: "6000×4000",
     fileSize: "12.1 MB",
