@@ -3,7 +3,7 @@ import Link from "next/link";
 import { Logo01, RelayButton } from "@/components/relay-ui";
 
 const navLinks = [
-  { href: "#assets", label: "Assets" },
+  { href: "/library", label: "Assets" },
   { href: "#components", label: "Components" },
   { href: "#docs", label: "Docs" },
 ];

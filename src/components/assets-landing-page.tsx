@@ -50,7 +50,7 @@ export function AssetsLandingPage() {
         <HeroDitheringRoot
           className="min-h-[calc(100vh-4rem)] pb-28 lg:pb-0"
           ctaProps={{
-            href: "#assets",
+            href: "/library",
             label: "Browse the library",
             target: "_self",
             rel: undefined,
